@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Starter" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#F9FAEF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/wikipedia</item>
+        <item name="postSplashScreenTheme">@style/AppTheme</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_writeree"
+        android:icon="@drawable/ic_writer"
+        android:title="be a writere"/>
+
+    <item
+        android:title="our websites">
+
+        <menu>
+            <item
+                android:id="@+id/menu_open_wikipedia"
+                android:icon="@drawable/ic_wikipedia"
+                android:title="visit wikipedia" />
+
+            <item
+                android:id="@+id/openWikimedia"
+                android:icon="@drawable/ic_wikimedia"
+                android:title="visit wikimedia" />
+        </menu>
+
+
+    </item>
+
+
+</menu>
